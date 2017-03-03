@@ -1,20 +1,21 @@
 # Raspberry Pi Zero sized Hat
 This a KiCad template for a Raspberry Pi Zero sized Hat. It is based on the 
-[Raspberry Pi B+ Hat template](https://github.com/xesscorp/RPi_Hat_Template) from Xess Corp.
+[Raspberry Pi B+ Hat template](https://github.com/xesscorp/RPi_Hat_Template) from Xess Corp. Xess Corp did all the hard work here.
 
 Currently there is no mechanical definition for Raspberry Pi Zero Hats so the 
 [mechanical definition](https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi-zero-v1_2_dimensions.pdf)
-for Raspberry Pi Zero was used instead.## 
+for the Raspberry Pi Zero itself was used instead.
 
 The board outline looks like this:
 
 <img src="meta/RPi_Zero_Hat-brd.png" style="width:100%">
 
 ## Status
-Board has been ordered from OSH Park but has not been tested.
+This template has not been used in a design yet so verify before using.
+
+Below is the original README. Folow the instructions below to use this template.
 
 # Raspberry Pi B+ Hat
-============================
 
 Expansion Board
 ----------------------------
