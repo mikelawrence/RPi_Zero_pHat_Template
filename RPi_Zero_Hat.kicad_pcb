@@ -587,7 +587,7 @@
   )
 
   (dimension 30.5 (width 0.15) (layer Dwgs.User)
-    (gr_text "30.5 mm" (at 88.05 39.25 270) (layer Dwgs.User)
+    (gr_text "30.5 mm (SMT socket)" (at 88.05 39.25 270) (layer Dwgs.User)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
     )
     (feature1 (pts (xy 78.5 54.5) (xy 89.1 54.5)))
@@ -599,7 +599,7 @@
     (arrow2b (pts (xy 87 24) (xy 87.586421 25.126504)))
   )
   (dimension 30 (width 0.15) (layer Dwgs.User)
-    (gr_text "30 mm" (at 83.05 39.5 270) (layer Dwgs.User) (tstamp 58B8795C)
+    (gr_text "30 mm (Thru-hole)" (at 83.05 39.5 270) (layer Dwgs.User) (tstamp 58B8795C)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
     )
     (feature1 (pts (xy 78.5 54.5) (xy 84.1 54.5)))
