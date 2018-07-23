@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RPi_Zero_pHat_Template-rescue)(type Legacy)(uri ${KIPRJMOD}/RPi_Zero_pHat_Template-rescue.lib)(options "")(descr ""))
+)
