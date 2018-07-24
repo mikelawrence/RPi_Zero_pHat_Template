@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Connector_Samtec_HLE_SMD-ML)(type KiCad)(uri ${KIPRJMOD}/footprints/Connector_Samtec_HLE_SMD-ML.pretty)(options "")(descr ""))
+)
