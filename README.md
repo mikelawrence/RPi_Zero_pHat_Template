@@ -1,6 +1,6 @@
 # Raspberry Pi Zero ~~pHat~~ uHat template
 
-This a KiCad 5.0.0 template for a [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) or [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)sized uHat. It is based on the [Raspberry Pi B+ Hat template](https://github.com/xesscorp/RPi_Hat_Template) from Xess Corp. XESS Corp did all the hard work here.
+This a KiCad 5.0.0 template for a [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) or [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) sized uHat. It is based on the [Raspberry Pi B+ Hat template](https://github.com/xesscorp/RPi_Hat_Template) from Xess Corp. XESS Corp did all the hard work here.
 
 Raspberry Pi Foundation has finally named these Raspberry Pi Zero sized hats which some called pHats. The new name is **Micro-Hat** or **uHat**. They also released a mechanical specification for them [here](https://github.com/raspberrypi/hats/blob/master/uhat-board-mechanical.pdf). Luckily these specifications exactly match the template. Note the new POE keepout area is not in this template. You will have to keep track of it yourself.
 
